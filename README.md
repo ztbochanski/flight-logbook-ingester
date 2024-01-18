@@ -5,4 +5,4 @@ CLI tool for managing flight logbooks.
 ```sh
 python src/main.py --help
 ```
-![cli-usage.png](https://github.com/ztbochanski/flight-logbook-ingester/blob/ec11a6bd303b57803c9082ebe2d72101e56d7420/img/cli-usage.png)
+![cli-usage.png](https://github.com/ztbochanski/flight-logbook-ingester/blob/055a25a2bc09790f272db8413fcc76c7ac6b141f/img/cli-usage.png)
